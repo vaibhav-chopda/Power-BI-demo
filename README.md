@@ -34,4 +34,12 @@ To start using these Power BI reports, follow these steps:
 
 1. **Cashflow Forecast:**
 
-    ![plot](.\img\CashflowForecast.PNG)
+    <img src="img/CashflowForecast.PNG" alt="Alt text" title="Cashflow Forecast">
+
+2. **Procurement Report:**
+
+    **Page 1:**
+    <img src="img/Procurement.JPG" alt="Alt text" title="Procurement Report">
+
+    **Page 2:**
+    <img src="img/Procurement2.JPG" alt="Alt text" title="Procurement Report">

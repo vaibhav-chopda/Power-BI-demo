@@ -34,4 +34,4 @@ To start using these Power BI reports, follow these steps:
 
 1. **Cashflow Forecast:**
 
-    ![plot](img\CashflowForecast.PNG)
+    ![plot](.\img\CashflowForecast.PNG)
